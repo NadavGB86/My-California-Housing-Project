@@ -6,6 +6,6 @@ expressed in hundreds of thousands of dollars ($100,000). So, I'm tring to creat
 * This dataset was obtained from the StatLib repository.
 https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html
 
-There are 2 main notebooks© and a few extra fig’s that are too large for the files, please go over the EDA as the next file is based on its exhibited conclusions (within its flow) 
+The main notebooks© is the CH Project, and attached is an HTML file (download and add to chrome to watch)
 
 Nadav GB
